@@ -1,0 +1,75 @@
+* {
+  font-family: poppins;
+}
+.cp-login {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.cp-login .img-wrap {
+  width: 100%;
+  max-width: 40rem;
+  margin-right: 15rem;
+  align-self:center;
+}
+
+.subtitle {
+  align-self: center;
+  opacity: 0.6;
+  font-family: Poppins;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  font-stretch: normal;
+  font-style: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000;
+}
+.title {
+  font-family: Poppins;
+  font-size: 4rem;
+  font-weight: 700;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.2;
+  align-self: center;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000;
+}
+.action-wrap {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 4rem;
+}
+.action-wrap .button {
+  font-weight: 700;
+  border-radius: 1rem;
+  letter-spacing: normal;
+  height: 4.9rem;
+  width: 2.5rem;
+  background-color: #000;
+
+  margin-right: 2rem;
+}
+.action-wrap button a {
+  color: #ffff;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 1.8rem;
+}
+.text-w-link {
+  font-size: 1.4rem;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2;
+  text-align: left;
+  color: #000;
+  margin-top: 1rem;
+  width: 40rem;
+}
+.text-w-link a {
+  color: #d9136f;
+}
